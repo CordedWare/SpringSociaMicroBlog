@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="696c6401-ac42-4f7c-a3c9-128d1dd967bd" name="Changes" comment="">
+      <change beforePath="$USER_HOME$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2RtBJs2b6Ezom9GPEI2wZ9jFMEA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.UserServiceTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/cordedware/Загрузки/SpringTraineeWebServiceMVC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "23cf5d8a721631fc48b9616dbb99bc5d",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/parts" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/db.migration" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.webservice.Application" />
+      <module name="SpringTraineeWebServiceMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.webservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringTraineeWebServiceMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.webservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.webservice.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.webservice.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.activateUserFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringTraineeWebServiceMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.webservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.webservice.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.webservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="activateUserFailTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringTraineeWebServiceMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.webservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.webservice.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.webservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringTraineeWebServiceMVC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.webservice.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringTraineeWebServiceMVC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.webservice.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.webservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.UserServiceTest.activateUserFailTest" />
+        <item itemvalue="JUnit.UserServiceTest.addUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-ab7203c4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="696c6401-ac42-4f7c-a3c9-128d1dd967bd" name="Changes" comment="" />
+      <created>1688059431048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688059431048</updated>
+      <workItem from="1688059432267" duration="4253000" />
+      <workItem from="1688229165499" duration="15265000" />
+      <workItem from="1688308721272" duration="6151000" />
+      <workItem from="1688317601868" duration="3024000" />
+      <workItem from="1688324150574" duration="223000" />
+      <workItem from="1688361463673" duration="58000" />
+      <workItem from="1688471875542" duration="1053000" />
+      <workItem from="1688574988008" duration="4692000" />
+      <workItem from="1688831325491" duration="5912000" />
+      <workItem from="1689443414655" duration="7705000" />
+      <workItem from="1689544217685" duration="97000" />
+      <workItem from="1689570405762" duration="34000" />
+      <workItem from="1689570486621" duration="1507000" />
+      <workItem from="1692358397056" duration="239000" />
+      <workItem from="1694107610759" duration="4504000" />
+      <workItem from="1694149874411" duration="2509000" />
+      <workItem from="1694156193734" duration="72000" />
+      <workItem from="1694186797242" duration="5657000" />
+      <workItem from="1694206271922" duration="599000" />
+      <workItem from="1694207014751" duration="112000" />
+      <workItem from="1694249204882" duration="12230000" />
+      <workItem from="1694277342956" duration="6838000" />
+      <workItem from="1694285881541" duration="3128000" />
+      <workItem from="1694290251450" duration="3679000" />
+      <workItem from="1694369995298" duration="28000" />
+      <workItem from="1694409586510" duration="14000" />
+      <workItem from="1694409824823" duration="951000" />
+      <workItem from="1694434030780" duration="12960000" />
+      <workItem from="1694499963590" duration="84000" />
+      <workItem from="1694519521308" duration="4908000" />
+      <workItem from="1695112499772" duration="208000" />
+      <workItem from="1697572003125" duration="17000" />
+      <workItem from="1698085939088" duration="1365000" />
+      <workItem from="1701022846859" duration="30000" />
+      <workItem from="1704402361062" duration="14298000" />
+      <workItem from="1704581303379" duration="4514000" />
+      <workItem from="1704587557051" duration="217000" />
+      <workItem from="1705231963352" duration="2069000" />
+      <workItem from="1705700808958" duration="6452000" />
+      <workItem from="1705780015983" duration="3787000" />
+      <workItem from="1705828766001" duration="954000" />
+      <workItem from="1705829876918" duration="498000" />
+      <workItem from="1705830579769" duration="1647000" />
+      <workItem from="1705832313797" duration="5664000" />
+      <workItem from="1706018006400" duration="4318000" />
+      <workItem from="1706025511001" duration="7000" />
+      <workItem from="1706031708455" duration="10000" />
+      <workItem from="1706105455974" duration="7335000" />
+      <workItem from="1706116587335" duration="1007000" />
+      <workItem from="1706117755837" duration="370000" />
+      <workItem from="1706118143676" duration="266000" />
+      <workItem from="1706118425442" duration="667000" />
+      <workItem from="1706119115495" duration="22661000" />
+      <workItem from="1706174140026" duration="626000" />
+      <workItem from="1706174789918" duration="58000" />
+      <workItem from="1706186682769" duration="1657000" />
+      <workItem from="1706200778981" duration="3583000" />
+      <workItem from="1706206665694" duration="10926000" />
+      <workItem from="1706249502655" duration="58000" />
+      <workItem from="1706249714241" duration="16000" />
+      <workItem from="1706250867074" duration="1729000" />
+      <workItem from="1706252673198" duration="270000" />
+      <workItem from="1706253005756" duration="4258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/RegistrationController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/RegistrationController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/service/UserService.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/service/UserService.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/service/UserService.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>67</line>
+          <properties class="org.example.webservice.controller.MessageController" method="add">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/webservice/controller/MessageController.java</url>
+          <line>170</line>
+          <properties class="org.example.webservice.controller.MessageController" method="updateMessage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jdk.proxy4.$Proxy92" memberName="h" />
+        <PinnedItemInfo parentTag="org.springframework.aop.framework.JdkDynamicAopProxy" memberName="proxiedInterfaces" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringTraineeWebServiceMVC$Application.ic" NAME="Application Coverage Results" MODIFIED="1694270518133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.webservice.*</FILTER>
+    </SUITE>
+  </component>
+</project>
